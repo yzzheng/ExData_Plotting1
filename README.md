@@ -1,6 +1,6 @@
 ## My assignment work
 
-Source the plot1.R code and get the plot1.png graph. Source the plot2.R code and get the plot2.png graph. Source the plot3.R code and get the plot3.png graph. Source the plot4.R code and get the plot4.png graph. 
+This work needs data "household_power_consumption.txt" and the R codes in the same directory. Source the plot1.R code and get the plot1.png graph. Source the plot2.R code and get the plot2.png graph. Source the plot3.R code and get the plot3.png graph. Source the plot4.R code and get the plot4.png graph. 
 
 ## Introduction
 
